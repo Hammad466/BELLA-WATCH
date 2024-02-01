@@ -10,7 +10,7 @@
     <body id="home" class="wide">
         <!-- PRELOADER -->
         <?php
-        include "preloder.inc";
+        include "preloader.inc";
         ?>
         <!-- /PRELOADER -->
 
