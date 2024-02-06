@@ -40,12 +40,7 @@
                                    
                                 </li>
                                 <li><a href="category.html">Shop</a>
-                                    <ul>
-                                        <li><a href="category.html">Shop Sidebar Left</a></li>
-                                        <li><a href="category-right.html">Shop Sidebar Right</a></li>
-                                        <li><a href="category-list.html">Shop List View</a></li>
-                                        <li><a href="product-details.html">Product Page</a></li>
-                                    </ul>
+                                   
                                 </li>
                                 <li><a href="#">Blog</a>
                                     <ul>
