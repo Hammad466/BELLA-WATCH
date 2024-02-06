@@ -38,11 +38,7 @@
                             <ul class="nav sf-menu">
                                 <li class="active"><a href="index-2.html">Homepage</a>
                                    
-                                </li>
-                                <li><a href="category.html">Shop</a>
-                                   
-                                </li>
-                              
+                            
                                 <li><a href="portfolio.html">Portfolio</a>
                                     <ul>
                                         <li><a href="portfolio.html">Portfolio 3 columns</a></li>
