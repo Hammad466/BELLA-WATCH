@@ -60,7 +60,7 @@
                                                     <li><a href="#">Luxury  Watches</a></li>
                                                     <li><a href="#">
                                                             Smart Watches</a></li>
-                                                    <li><a href="#">Sports Watches</a></li>
+                                                    
                                                     <li><a href="#">Traditional Watches</a></li>
                                                     <li><a href="#">Round Watches</a></li>
                                                     <li><a href="#">Diamond Watches</a></li>
