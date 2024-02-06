@@ -42,13 +42,7 @@
                                 <li><a href="category.html">Shop</a>
                                    
                                 </li>
-                                <li><a href="#">Blog</a>
-                                    <ul>
-                                        <li><a href="blog.html">Blog Sidebar Left </a></li>
-                                        <li><a href="blog-right.html">Blog Sidebar Right</a></li>
-                                        <li><a href="blog-post.html">Blog Single Post</a></li>
-                                    </ul>
-                                </li>
+                              
                                 <li><a href="portfolio.html">Portfolio</a>
                                     <ul>
                                         <li><a href="portfolio.html">Portfolio 3 columns</a></li>
